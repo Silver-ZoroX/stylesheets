@@ -11,7 +11,7 @@ ul.a {position: absolute;color: white;font-size: 1.5em;font-family: fantasy;padd
 
 li.item a.Bttn{color:white !important;}
 
-li.item a.Bttn:hover {opacity: 60%;}
+li.item a.Bttn:hover {opacity: 60%;font-size:1.8em;}
 
 .Stats{font-size:0.7em !important;font-family: fantasy !important;margin: 2px !important;}
 
