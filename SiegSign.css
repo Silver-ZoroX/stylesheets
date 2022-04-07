@@ -11,7 +11,7 @@ ul.a {position: absolute;color: white;font-size: 1.5em;font-family: fantasy;padd
 
 li.item a.Bttn{color:white !important;}
 
-li.item a.Bttn:hover {font-size:1.3em;background-image: url(https://i.pinimg.com/originals/78/7b/54/787b5434734f1539f93f0fc24e67e07a.gif);background-size: contain;padding: 10px 50px 10px 0px;background-repeat: no-repeat;}
+li.item a.Bttn:hover {font-size:1.3em;background-image: url(http://pa1.narvii.com/6753/881772d80a868b08cc3fba058a231b34364d3d46_00.gif);background-size: contain;padding: 10px 50px 10px 0px;background-repeat: no-repeat;}
 
 .Stats{font-size:0.7em !important;font-family: fantasy !important;margin: 2px !important;}
 
