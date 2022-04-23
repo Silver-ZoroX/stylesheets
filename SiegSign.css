@@ -2,7 +2,7 @@
 
 .container {padding: 40px;}
 
-.char {border-radius: 50%;position: absolute;left: 0;right: 0;top: 10%;margin-left: auto;margin-right: auto;}
+.char {border-radius: 50%;position: absolute;left: 0;right: 0;top: 15%;margin-left: auto;margin-right: auto;}
 .border {position: absolute;left: 0;right: 0;top: 2%;margin-left: auto;margin-right: auto;}
 
 #char{background-image: url();margin: 0px 100px 0px 100px;padding: 100px;}
@@ -13,7 +13,7 @@ li.item a.Bttn{color:white !important;}
 
 li.item a.Bttn:hover {font-size:1.3em;background-image: url(http://pa1.narvii.com/6753/881772d80a868b08cc3fba058a231b34364d3d46_00.gif);background-size: contain;padding: 10px 50px 10px 0px;background-repeat: no-repeat;}
 
-.Stats{font-size:0.7em !important;font-family: fantasy !important;margin: 2px !important;}
+.Stats{font-size:0.7em !important;font-family: fantasy !important;margin: 2px !important;-webkit-text-stroke: 1px black;}
 
 .statsdiv{top: 40px !important;left: 380px !important;position:absolute !important;color:white !important;font-family:fantasy !important;font-size:1.5em !important}
 
