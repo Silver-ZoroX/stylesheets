@@ -7,6 +7,8 @@
 
 #char{background-image: url();margin: 0px 100px 0px 100px;padding: 100px;}
 
+ul {padding: 0px 0px 0px 1em !important;}
+
 ul.a {position: absolute;color: white;font-size: 1.5em;font-family: fantasy;padding: 0px 0px 0px 1em;margin-left: 0em;}
 
 li.item a.Bttn{color:white !important;-webkit-text-stroke: 1px black;}
@@ -15,6 +17,6 @@ li.item a.Bttn:hover {font-size:1.3em;background-image: url(http://pa1.narvii.co
 
 .Stats{font-size:0.7em !important;font-family: fantasy !important;margin: 2px !important;-webkit-text-stroke: 1px black;}
 
-.statsdiv{top: 40px !important;left: 380px !important;position:absolute !important;color:white !important;font-family:fantasy !important;font-size:1.5em !important;-webkit-text-stroke: 1px black;}
+.statsdiv{top: 1.5em !important;left: 25em !important;position:absolute !important;color:white !important;font-family:fantasy !important;font-size:1.5em !important;-webkit-text-stroke: 1px black;}
 
 li.item {margin: 0vw;padding: 0px 0px 0px 30px;list-style: none;background-image: url("https://i.pinimg.com/originals/c1/7a/84/c17a84e6e145fdd1859943ed187b6506.gif");background-repeat: no-repeat;background-size: 25px;}
